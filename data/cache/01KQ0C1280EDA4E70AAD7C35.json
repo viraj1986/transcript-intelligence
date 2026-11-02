@@ -1,0 +1,23 @@
+{
+  "call_type": "support",
+  "primary_topic": "billing dispute",
+  "secondary_topics": [
+    "Comply v2",
+    "Aegis Identity",
+    "HIPAA compliance",
+    "billing adjustment",
+    "usage threshold alerts"
+  ],
+  "category": "Billing",
+  "sentiment_score": 0.8,
+  "sentiment_label": "positive",
+  "escalation_risk": false,
+  "is_business_call": true,
+  "products_mentioned": [
+    "Aegis Identity",
+    "Comply v2"
+  ],
+  "confidence_score": 0.9,
+  "summary": "The customer, Gregory Fisk, called in with a billing dispute regarding a discrepancy in seat count on their January invoice for Aegis Identity. Sarah Chen, the support agent, investigated the issue and determined that the discrepancy was due to test accounts created during a migration that were not deprovisioned. She documented the root cause and submitted a billing adjustment request to the finance team.",
+  "evidence": "Sarah Chen: Okay, I'm seeing case 9279 here, Summit Trust, billing inquiry submitted... looks like February 4th. So can you walk me through what you're seeing on your end? Gregory Fisk: Yeah so, uh, we received our January invoice last week and there's a line item on there that doesn't quite match what we expected based on our contract. It's showing a charge for \u2014 let me pull this up \u2014 okay, it's showing a charge for 1,400 seats under Aegis Identity, but we only have 1,200 licensed users. Sarah Chen: Okay, so a discrepancy of 200 seats on the Aegis Identity module. Got it. ... Gregory Fisk: Right, and I mean, that's \u2014 I mean, that's a process thing we probably should have caught on our end too, so I'm not going to sit here and say it's entirely on Aegis. But the question now is what do we do about the invoice."
+}
